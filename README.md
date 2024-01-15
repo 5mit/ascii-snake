@@ -2,7 +2,7 @@
 
 A terminal based snake game that utilizes the ncurses API.
 
-#[Check Out The Project Page](https://5mithub.com/projects/ascii_snake)
+<a href="https://5mithub.com/projects/ascii_snake" style="font-size: 24px;">Check Out The Project Page</a>
 
 # How To Run:
 
